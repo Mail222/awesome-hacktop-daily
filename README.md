@@ -10,3 +10,5 @@ Most of the resources were found during
 # OSINT
 # *nix stuff
 # AI/ML
+# Job stuff
+(resume)
