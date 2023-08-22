@@ -14,9 +14,13 @@ Feel free to star and fork.
 [Job Stuff](https://github.com/Mail222/awesome-everyday/tree/main#job-stuff)
 
 💽 = Open Source, click the icon to open the repo!
+
 💸 = Freeware, the software is propreitary 😭 but free!
+
 📝 = List, a link that will usually go to another site
+
 Last but not least...
+
 ## ⭐️ or 🤩 for my FAVORITE entries to the list!
 
 # Firewall Bypass
