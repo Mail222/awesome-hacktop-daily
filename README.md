@@ -21,14 +21,25 @@ Feel free to star and fork.
 
 Last but not least...
 
-## ⭐️ or 🤩 for my FAVORITE entries to the list!
+## ⭐️ or 🤩 for my FAVORITE entries on the list!
 
 # Firewall Bypass
+Lantern
+Wireguard (try Port 53)
+SSTP
+[Awesome-Anti-Censorship](https://github.com/danoctavian/awesome-anti-censorship) <-- might be outdated
 # Networking
 # Privacy
 # Security
+Cyberchef
+EE2E for Email, messaging, etc
+FDE - Bitlocker (Windows), Mac, Linux
+Single file encryption
 # OSINT
 # *nix Stuff
+AltServer (link to awesome-sideloaded)
+Tails Linux
 # AI/ML
 # Job Stuff
+QR Tiger
 (resume)
