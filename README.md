@@ -13,7 +13,7 @@ Feel free to star and fork.
 [AI/ML](https://github.com/Mail222/awesome-everyday/tree/main#aiml) |
 [Job Stuff](https://github.com/Mail222/awesome-everyday/tree/main#job-stuff)
 
-💽 = Open Source, click the icon to open the repo!
+💽 = Open Source, **click** the icon to open the repo!
 
 💸 = Freeware, the software is propreitary 😭 but free!
 
@@ -24,11 +24,18 @@ Last but not least...
 ## ⭐️ or 🤩 for my FAVORITE entries on the list!
 
 # Firewall Bypass
-Lantern
-Wireguard (try Port 53)
-SSTP
-[Awesome-Anti-Censorship](https://github.com/danoctavian/awesome-anti-censorship) <-- might be outdated
+- [Lantern](https://lantern.io/) [💽](https://github.com/getlantern/lantern-binaries)
+- [Wireguard (try port 53)](https://www.wireguard.com/) [💽](https://github.com/WireGuard)
+- SSTP
+- [VPN Gate](https://www.vpngate.net/en/) [💽](https://www.softether.org/)
+- [Awesome-Anti-Censorship](https://github.com/danoctavian/awesome-anti-censorship) <-- might be outdated 📝
 # Networking
+- [Cloudflare](https://www.cloudflare.com/) 💸 (has a free plan)
+- [Pi-hole](https://pi-hole.net/) [💽](https://github.com/pi-hole/pi-hole)
+- [pfSense](https://www.pfsense.org/) [💽](https://github.com/pfsense/pfsense)
+- [OPNsense](https://opnsense.org/) [💽](https://github.com/opnsense)
+- [Suricata](https://suricata.io/) [💽](https://github.com/OISF/suricata)
+- Windows Server... I don't want to talk about it... [MAS 💽](https://github.com/massgravel/Microsoft-Activation-Scripts)
 # Privacy
 # Security
 Cyberchef
