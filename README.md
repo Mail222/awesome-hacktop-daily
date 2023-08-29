@@ -1,5 +1,5 @@
 # Awesome-Everyday
-An amassed list of my daily use "Awesome-**Topic**" resources.
+An amassed list of my daily use programs/links from "Awesome-**Topic**" resources.
 
 Most of these resources were found during HS/Early College; I'll take any [comments or suggestions](https://github.com/Mail222/awesome-everyday/issues).
 Feel free to star and fork.
@@ -37,6 +37,9 @@ Last but not least...
 - [Suricata](https://suricata.io/) [💽](https://github.com/OISF/suricata)
 - Windows Server... I don't want to talk about it... [MAS 💽](https://github.com/massgravel/Microsoft-Activation-Scripts)
 # Privacy
+- [privacy.sexy](https://privacy.sexy/) [💽](https://github.com/undergroundwires/privacy.sexy)
+- [Privacy Guides 🤩](https://www.privacyguides.org/en/) [💽](https://github.com/privacyguides/privacyguides.org)
+- [anonymousemail](https://anonymousemail.me/)
 # Security
 Cyberchef
 EE2E for Email, messaging, etc
