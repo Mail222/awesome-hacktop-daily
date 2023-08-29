@@ -43,10 +43,13 @@ EE2E for Email, messaging, etc
 FDE - Bitlocker (Windows), Mac, Linux
 Single file encryption
 # OSINT
+https://github.com/jivoi/awesome-osint
 # *nix Stuff
 AltServer (link to awesome-sideloaded)
 Tails Linux
 # AI/ML
+https://quillbot.com/
+https://github.com/blueagler/QuillBot-Premium-Crack
 # Job Stuff
 QR Tiger
 (resume)
