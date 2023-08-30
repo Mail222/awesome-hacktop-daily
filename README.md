@@ -38,9 +38,18 @@ Last but not least...
 - Windows Server... I don't want to talk about it... [MAS 💽](https://github.com/massgravel/Microsoft-Activation-Scripts)
 # Privacy
 - [privacy.sexy](https://privacy.sexy/) [💽](https://github.com/undergroundwires/privacy.sexy)
-- [Privacy Guides 🤩](https://www.privacyguides.org/en/) [💽](https://github.com/privacyguides/privacyguides.org)
+- [Privacy Guides 🤩](https://www.privacyguides.org/en/) [💽](https://github.com/privacyguides/privacyguides.org) 📝
 - [anonymousemail](https://anonymousemail.me/)
+- [SMSReceiveFree](https://smsreceivefree.com/) 💸
+- [PrivateBin](https://privatebin.info/) [💽](https://github.com/PrivateBin/PrivateBin)
+- [CheckTor](https://check.torproject.org/) [💽](https://git.torproject.org/check.git)
+- [SophiApp 🤩](https://github.com/Sophia-Community/SophiApp) [💽](https://github.com/Sophia-Community/SophiApp)
+- [emailnator ⭐️](https://www.emailnator.com/)
+- [smailpro 🤩](https://smailpro.com/advanced)
+- [Organic Maps](https://organicmaps.app/) [💽](https://github.com/organicmaps/organicmaps)
+- [Security List](https://security-list.js.org/#/) [💽](https://github.com/Lissy93/personal-security-checklist) 📝
 # Security
+- https://github.com/mikeroyal/Windows-11-Guide
 Cyberchef
 EE2E for Email, messaging, etc
 FDE - Bitlocker (Windows), Mac, Linux
