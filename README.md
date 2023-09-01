@@ -48,6 +48,9 @@ Last but not least...
 - [smailpro 🤩](https://smailpro.com/advanced)
 - [Organic Maps](https://organicmaps.app/) [💽](https://github.com/organicmaps/organicmaps)
 - [Security List](https://security-list.js.org/#/) [💽](https://github.com/Lissy93/personal-security-checklist) 📝
+- [Firefox Profilemaker ⭐️](https://ffprofile.com/) [💽](https://github.com/allo-/firefox-profilemaker)
+- [LibreWolf ⭐️](https://librewolf.net/) [💽](https://codeberg.org/librewolf) There is Mullvad Browser as well, but I would recommend Tor if trying to stay anonymous
+- [Tor ⭐️](https://www.torproject.org/) [💽](https://github.com/torproject) (don't change any default settings)
 # Security
 - https://github.com/mikeroyal/Windows-11-Guide
 Cyberchef
@@ -57,8 +60,13 @@ Single file encryption
 # OSINT
 https://github.com/jivoi/awesome-osint
 # *nix Stuff
-AltServer (link to awesome-sideloaded)
-Tails Linux
+- [NixOS](https://nixos.org/) [💽](https://github.com/NixOS)
+- [Homebrew ⭐️](https://brew.sh/) [💽](https://github.com/Homebrew/brew)
+- [Catppuccin theme for Windows/*nix ⭐️ 💽](https://github.com/catppuccin/catppuccin)
+- [Fedora Kinoite ⭐️](https://fedoraproject.org/kinoite/) [💽](https://github.com/fedora-kinoite)
+- [Tails 🤩](https://tails.net/) [💽](https://gitlab.tails.boum.org/tails/tails)
+- [AltServer ⭐️](https://altstore.io/) [💽](https://github.com/altstoreio/AltStore) *Not really related but [r/sideloaded](https://www.reddit.com/r/sideloaded/)
+- Neofetch [future link to my config]
 # AI/ML
 https://quillbot.com/
 https://github.com/blueagler/QuillBot-Premium-Crack
