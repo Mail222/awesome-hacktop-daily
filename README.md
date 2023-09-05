@@ -15,7 +15,7 @@ Feel free to star and fork.
 
 💽 = Open Source, **click** the icon to open the repo!
 
-💸 = Freeware, the software is propreitary 😭 but free!
+💸 = The software is propreitary 😭 but free!
 
 📝 = List, a link that will usually go to another site
 
@@ -52,10 +52,11 @@ Last but not least...
 - [LibreWolf ⭐️](https://librewolf.net/) [💽](https://codeberg.org/librewolf) There is Mullvad Browser as well, but I would recommend Tor if trying to stay anonymous
 - [Tor ⭐️](https://www.torproject.org/) [💽](https://github.com/torproject) (don't change any default settings)
 # Security
-- https://github.com/mikeroyal/Windows-11-Guide
-Cyberchef
+- [Windows 11 Guide 💽](https://github.com/mikeroyal/Windows-11-Guide)
+- [Session](https://getsession.org/) [💽](https://github.com/oxen-io)
+- [Cyberchef](https://gchq.github.io/CyberChef/) [💽](https://github.com/gchq/CyberChef)
 EE2E for Email, messaging, etc
-FDE - Bitlocker (Windows), Mac, Linux
+- FDE Bitlocker (Windows) 💸, Mac, Linux
 Single file encryption
 # OSINT
 https://github.com/jivoi/awesome-osint
