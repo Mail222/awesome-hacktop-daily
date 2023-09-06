@@ -4,7 +4,7 @@ An amassed list of my daily use programs/links from "Awesome-**Topic**" resource
 Most of these resources were found during HS/Early College; I'll take any [comments or suggestions](https://github.com/Mail222/awesome-everyday/issues).
 Feel free to star and fork.
 # Table of Contents
-[Firewall Bypass](https://github.com/Mail222/awesome-everyday/tree/main#bypass-firewall) |
+[Censorship Bypass](https://github.com/Mail222/awesome-everyday/tree/main#censorship-bypass) |
 [Networking](https://github.com/Mail222/awesome-everyday/tree/main#networking) |
 [Privacy](https://github.com/Mail222/awesome-everyday/tree/main#privacy) |
 [Security](https://github.com/Mail222/awesome-everyday/tree/main#security) |
@@ -23,7 +23,7 @@ Last but not least...
 
 ## ⭐️ or 🤩 for my FAVORITE entries on the list!
 
-# Firewall Bypass
+# Censorship Bypass
 - [Lantern](https://lantern.io/) [💽](https://github.com/getlantern/lantern-binaries)
 - [Wireguard (try port 53)](https://www.wireguard.com/) [💽](https://github.com/WireGuard)
 - SSTP 💸
