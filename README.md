@@ -77,7 +77,7 @@ Single file encryption
 - [FinderFix ⭐️](https://synappser.github.io/apps/finderfix/) [💽](https://github.com/synappser/FinderFix)
 # AI/ML
 - https://quillbot.com/
-  - aHR0cHM6Ly9naXRodWIuY29tL2JsdWVhZ2xlci9RdWlsbEJvdC1QcmVtaXVtLUNyYWNrCg==
+  - `aHR0cHM6Ly9naXRodWIuY29tL2JsdWVhZ2xlci9RdWlsbEJvdC1QcmVtaXVtLUNyYWNrCg==`
 # Job Stuff
 [QR Tiger](https://www.qrcode-tiger.com/) 💸
 [Reactive Resume](https://rxresu.me/) [💽](https://github.com/AmruthPillai/Reactive-Resume)
