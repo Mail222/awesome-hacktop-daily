@@ -81,4 +81,6 @@ Single file encryption
 # Job Stuff
 [QR Tiger](https://www.qrcode-tiger.com/) 💸
 [Reactive Resume](https://rxresu.me/) [💽](https://github.com/AmruthPillai/Reactive-Resume)
+### Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=Mail222/awesome-everyday&type=Date)](https://star-history.com/#Mail222/awesome-everyday&Date)
 ### This work is licensed under a [Creative Commons Attribution 4.0 International License.](https://creativecommons.org/licenses/by/4.0/)
