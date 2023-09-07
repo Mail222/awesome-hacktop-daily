@@ -52,6 +52,9 @@ Last but not least...
 - [Firefox Profilemaker ⭐️](https://ffprofile.com/) [💽](https://github.com/allo-/firefox-profilemaker)
 - [LibreWolf ⭐️](https://librewolf.net/) [💽](https://codeberg.org/librewolf) There is Mullvad Browser as well, but I would recommend Tor if trying to stay anonymous
 - [Tor ⭐️](https://www.torproject.org/) [💽](https://github.com/torproject) (don't change any default settings)
+<!-- 
+wordlists site found from andre
+-->
 # Security
 - [Windows 11 Guide 💽](https://github.com/mikeroyal/Windows-11-Guide)
 - [Session](https://getsession.org/) [💽](https://github.com/oxen-io)
@@ -63,6 +66,7 @@ Single file encryption
 -->
 # OSINT
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+- [Black Arch Social Tools](https://blackarch.org/social.html) [💽](https://github.com/BlackArch)
 - base64 section:
   - `c29tZSBhd2Vzb21lIE9TSU5UIHN0dWZmIQo=`
 # *nix Stuff
