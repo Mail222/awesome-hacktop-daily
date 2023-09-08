@@ -52,6 +52,7 @@ Last but not least...
 - [Firefox Profilemaker ⭐️](https://ffprofile.com/) [💽](https://github.com/allo-/firefox-profilemaker)
 - [LibreWolf ⭐️](https://librewolf.net/) [💽](https://codeberg.org/librewolf) There is Mullvad Browser as well, but I would recommend Tor if trying to stay anonymous
 - [Tor ⭐️](https://www.torproject.org/) [💽](https://github.com/torproject) (don't change any default settings)
+- [Lokinet](https://lokinet.org/) [💽](https://github.com/oxen-io/lokinet)
 <!-- 
 wordlists site found from andre
 -->
@@ -59,14 +60,20 @@ wordlists site found from andre
 - [Windows 11 Guide 💽](https://github.com/mikeroyal/Windows-11-Guide)
 - [Session](https://getsession.org/) [💽](https://github.com/oxen-io)
 - [Cyberchef](https://gchq.github.io/CyberChef/) [💽](https://github.com/gchq/CyberChef)
+- FDE
+  - [Bitlocker](https://learn.microsoft.com/en-us/windows/security/operating-system-security/data-protection/bitlocker/) 💸
+  - [FileVault](https://support.apple.com/guide/mac-help/encrypt-mac-data-with-filevault-mh11785/mac) 💸
+  - [Linux Unified Key Setup 💽](https://gitlab.com/cryptsetup/cryptsetup/-/blob/main/README.md)
+- [Hat.sh](https://hat.sh/) [💽](https://github.com/sh-dv/hat.sh)
+- [RCLONE 🤩](https://rclone.org/) [💽](https://github.com/rclone/rclone)
 <!-- 
-EE2E for Email, messaging, etc
-- FDE Bitlocker (Windows) 💸, Mac, Linux
-Single file encryption
+PGP section for email
+...Single file encryption
 -->
 # OSINT
-- [Awesome OSINT](https://github.com/jivoi/awesome-osint)
+- [Awesome OSINT](https://github.com/jivoi/awesome-osint) 📝
 - [Black Arch Social Tools](https://blackarch.org/social.html) [💽](https://github.com/BlackArch)
+- [IPVOID](https://www.ipvoid.com/)
 - base64 section:
   - `c29tZSBhd2Vzb21lIE9TSU5UIHN0dWZmIQo=`
 # *nix Stuff
@@ -76,8 +83,10 @@ Single file encryption
 - [Fedora Kinoite ⭐️](https://fedoraproject.org/kinoite/) [💽](https://github.com/fedora-kinoite)
 - [Tails 🤩](https://tails.net/) [💽](https://gitlab.tails.boum.org/tails/tails)
 - [AltServer ⭐️](https://altstore.io/) [💽](https://github.com/altstoreio/AltStore) *Not really related but [r/sideloaded](https://www.reddit.com/r/sideloaded/)
+<!-- 
 - Neofetch [future link to my config]
 - Mac [myconfig] / Dotfiles
+-->
 - [FinderFix ⭐️](https://synappser.github.io/apps/finderfix/) [💽](https://github.com/synappser/FinderFix)
 # AI/ML
 - https://quillbot.com/
@@ -85,6 +94,6 @@ Single file encryption
 # Job Stuff
 [QR Tiger](https://www.qrcode-tiger.com/) 💸
 [Reactive Resume](https://rxresu.me/) [💽](https://github.com/AmruthPillai/Reactive-Resume)
-### Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=Mail222/awesome-everyday&type=Date)](https://star-history.com/#Mail222/awesome-everyday&Date)
 ### This work is licensed under a [Creative Commons Attribution 4.0 International License.](https://creativecommons.org/licenses/by/4.0/)
+#### Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=Mail222/awesome-everyday&type=Date)](https://star-history.com/#Mail222/awesome-everyday&Date)
