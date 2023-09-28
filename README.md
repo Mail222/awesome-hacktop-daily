@@ -74,6 +74,9 @@ PGP section for email
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint) 📝
 - [Black Arch Social Tools](https://blackarch.org/social.html) [💽](https://github.com/BlackArch)
 - [IPVOID](https://www.ipvoid.com/)
+- [AsINT Collection](https://start.me/p/b5Aow7/asint_collection) 📝
+- [OSINT Framework](https://osintframework.com/) 📝
+- [bellingcat](https://www.bellingcat.com/) 📝
 - base64 section:
   - `c29tZSBhd2Vzb21lIE9TSU5UIHN0dWZmIQo=`
 # *nix Stuff
