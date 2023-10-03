@@ -1,4 +1,4 @@
-# Awesome-Everyday
+# Awesome-Hacktop-Daily
 An amassed list of my hacktop tools and services that I daily use. Includes programs/links from "Awesome-**Topic**" resources.
 
 Most of these resources were found during HS/Early College; I'll take any [comments or suggestions](https://github.com/Mail222/awesome-everyday/issues).
