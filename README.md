@@ -1,5 +1,5 @@
 # Awesome-Everyday
-An amassed list of my daily use programs/links from "Awesome-**Topic**" resources.
+An amassed list of my hacktop tools and services that I daily use. Includes programs/links from "Awesome-**Topic**" resources.
 
 Most of these resources were found during HS/Early College; I'll take any [comments or suggestions](https://github.com/Mail222/awesome-everyday/issues).
 Feel free to star and fork.
@@ -28,15 +28,15 @@ Last but not least...
 - [Wireguard (try port 53)](https://www.wireguard.com/) [💽](https://github.com/WireGuard)
 - SSTP 💸
 - [VPN Gate](https://www.vpngate.net/en/) [💽](https://www.softether.org/)
-- [Awesome-Anti-Censorship](https://github.com/danoctavian/awesome-anti-censorship) <-- might be outdated 📝
+- [Awesome-Anti-Censorship](https://github.com/danoctavian/awesome-anti-censorship) > might be outdated 📝
 # Networking
-- [Cloudflare](https://www.cloudflare.com/) 💸 (has a free plan)
+- [Cloudflare](https://www.cloudflare.com/) 💸 > (has a free plan)
 - [Pi-hole](https://pi-hole.net/) [💽](https://github.com/pi-hole/pi-hole)
 - [pfSense](https://www.pfsense.org/) [💽](https://github.com/pfsense/pfsense)
 - [OPNsense](https://opnsense.org/) [💽](https://github.com/opnsense)
 - [Suricata 🤩](https://suricata.io/) [💽](https://github.com/OISF/suricata)
 - Windows Server... I don't want to talk about it...
-  - MAS 💽 `aHR0cHM6Ly9naXRodWIuY29tL21hc3NncmF2ZWwvTWljcm9zb2Z0LUFjdGl2YXRpb24tU2NyaXB0cwo=`
+  - Activation Scripts 💽 `aHR0cHM6Ly9naXRodWIuY29tL21hc3NncmF2ZWwvTWljcm9zb2Z0LUFjdGl2YXRpb24tU2NyaXB0cwo=`
 # Privacy
 - [privacy.sexy ⭐️](https://privacy.sexy/) [💽](https://github.com/undergroundwires/privacy.sexy)
 - [Privacy Guides 🤩](https://www.privacyguides.org/en/) [💽](https://github.com/privacyguides/privacyguides.org) 📝
@@ -50,9 +50,11 @@ Last but not least...
 - [Organic Maps](https://organicmaps.app/) [💽](https://github.com/organicmaps/organicmaps)
 - [Security List](https://security-list.js.org/#/) [💽](https://github.com/Lissy93/personal-security-checklist) 📝
 - [Firefox Profilemaker ⭐️](https://ffprofile.com/) [💽](https://github.com/allo-/firefox-profilemaker)
-- [LibreWolf ⭐️](https://librewolf.net/) [💽](https://codeberg.org/librewolf) There is Mullvad Browser as well, but I would recommend Tor if trying to stay anonymous
-- [Tor ⭐️](https://www.torproject.org/) [💽](https://github.com/torproject) (don't change any default settings)
+- [LibreWolf ⭐️](https://librewolf.net/) [💽](https://codeberg.org/librewolf) > there is Mullvad Browser as well, but I would recommend Tor if trying to stay anonymous
+- [Tor ⭐️](https://www.torproject.org/) [💽](https://github.com/torproject) > (don't change any default settings)
 - [Lokinet](https://lokinet.org/) [💽](https://github.com/oxen-io/lokinet)
+- [uBlock Origin 🤩](https://ublockorigin.com/) [💽](https://github.com/gorhill/uBlock)
+- [GnuPG](https://gnupg.org/) [💽](https://gnupg.org/ftp/index.html) > GNU Impmentation of PGP
 <!-- 
 wordlists site found from andre
 -->
@@ -66,10 +68,10 @@ wordlists site found from andre
   - [Linux Unified Key Setup 💽](https://gitlab.com/cryptsetup/cryptsetup/-/blob/main/README.md)
 - [Hat.sh](https://hat.sh/) [💽](https://github.com/sh-dv/hat.sh)
 - [RCLONE 🤩](https://rclone.org/) [💽](https://github.com/rclone/rclone)
-<!-- 
-PGP section for email
-...Single file encryption
--->
+- [KeePassXC](https://keepassxc.org/) [💽](https://github.com/keepassxreboot/keepassxc) > a very secure local password manager with options for cloud storage
+- [Bitwarden 🤩](https://www.bitwarden.com) [💽](https://github.com/bitwarden) > more of a cloud based password manager (with options to self-host)
+- [Metadata Cleaner](https://metadatacleaner.romainvigier.fr/) [💽](https://gitlab.com/rmnvgr/metadata-cleaner/)
+- [PGP Suite](https://pgpsuite.com/) [💽](https://github.com/heiswayi/pgp)
 # OSINT
 - [Awesome OSINT](https://github.com/jivoi/awesome-osint) 📝
 - [Black Arch Social Tools](https://blackarch.org/social.html) [💽](https://github.com/BlackArch)
@@ -79,6 +81,8 @@ PGP section for email
 - [bellingcat](https://www.bellingcat.com/) 📝
 - base64 section:
   - `c29tZSBhd2Vzb21lIE9TSU5UIHN0dWZmIQo=`
+  - `aHR0cHM6Ly9zZWFyY2guMHQucm9ja3MvCg==`
+  - `aHR0cHM6Ly9haXJjcmFjay1uZy5vcmcvCg==` > sort of OSINT... sort of enumeration..
 # *nix Stuff
 - [NixOS](https://nixos.org/) [💽](https://github.com/NixOS)
 - [Homebrew ⭐️](https://brew.sh/) [💽](https://github.com/Homebrew/brew)
@@ -86,6 +90,8 @@ PGP section for email
 - [Fedora Kinoite ⭐️](https://fedoraproject.org/kinoite/) [💽](https://github.com/fedora-kinoite)
 - [Tails 🤩](https://tails.net/) [💽](https://gitlab.tails.boum.org/tails/tails)
 - [AltServer ⭐️](https://altstore.io/) [💽](https://github.com/altstoreio/AltStore) *Not really related but [r/sideloaded](https://www.reddit.com/r/sideloaded/)
+- [Spicetify ⭐️](https://spicetify.app/)[💽](https://github.com/spicetify)
+- [gtkhash](https://gtkhash.org/) [💽](https://github.com/gtkhash/gtkhash)
 <!-- 
 - Neofetch [future link to my config]
 - Mac [myconfig] / Dotfiles
@@ -95,8 +101,8 @@ PGP section for email
 - https://quillbot.com/
   - `aHR0cHM6Ly9naXRodWIuY29tL2JsdWVhZ2xlci9RdWlsbEJvdC1QcmVtaXVtLUNyYWNrCg==`
 # Job Stuff
-[QR Tiger](https://www.qrcode-tiger.com/) 💸
-[Reactive Resume](https://rxresu.me/) [💽](https://github.com/AmruthPillai/Reactive-Resume)
+- [QR Tiger](https://www.qrcode-tiger.com/) 💸
+- [Reactive Resume](https://rxresu.me/) [💽](https://github.com/AmruthPillai/Reactive-Resume)
 ### This work is licensed under a [Creative Commons Attribution 4.0 International License.](https://creativecommons.org/licenses/by/4.0/)
 #### Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=Mail222/awesome-everyday&type=Date)](https://star-history.com/#Mail222/awesome-everyday&Date)
